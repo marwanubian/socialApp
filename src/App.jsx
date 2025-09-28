@@ -5,7 +5,7 @@ import Home from './components/Home/Home.jsx';
 import Login from './components/Login/Login.jsx';
 import Register from './components/Register/Register.jsx';
 import UserPosts from './components/UserPosts/UserPosts.jsx'; 
-import NotFound from './components/NotFound/NotFound.jsx'; 
+import NotFound from './components/notFound/NotFound.jsx'; 
 import ProtectedRoutes from './components/protectedRoutes/protectedRoutes.jsx';
 import ProtectedAuth from './components/protectedAuth/protectedAuth.jsx';
 import PostDetails from './components/postDetails/postDetails.jsx';

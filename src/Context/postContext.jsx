@@ -1,7 +1,7 @@
 // src/Context/PostContext.jsx
 import React, { createContext, useContext } from "react";
 import axios from "axios";
-import { useToken } from "./TokenContext"; // import token context
+import { useToken } from "./tokenContext";
 
 const PostContext = createContext();
 export const usePosts = () => useContext(PostContext);
