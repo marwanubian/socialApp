@@ -1,0 +1,31 @@
+/* .inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+}
+
+.inputLabel {
+  color: #606770;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.inputElement {
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #dddfe2;
+  font-size: 15px;
+  transition: border-color 0.3s;
+}
+
+.inputElement:focus {
+  outline: none;
+  border-color: #1877f2;
+  box-shadow: 0 0 0 2px #e7f3ff;
+}
+
+.inputElement::placeholder {
+  color: #90949c;
+  opacity: 1;
+} */
